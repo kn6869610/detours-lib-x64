@@ -8,3 +8,5 @@ Getting Detours library to work:
 4. run "VS2015 開發人員命令提示字元"
 5. cd Detours/src/
 6. nmake this src
+
+note: set DETOURS_PROCESSOR=x86
